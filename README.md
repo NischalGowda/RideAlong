@@ -1,1 +1,3 @@
 # RideAlong
+A carpooling application where a user can opt to be a driver or a passenger, if opted to be a driver then will provide his/her details like source and destination address, departure date, car model and license plate number, and search for a list of passengers who are willing to travel from the same source to destination. If opted to be a passenger then he/she has to provide source and destination address and departure date which in turn displays a drivers list from which he/she can select. Once after selection, both will be able to view the route with the help of a map. This feature is implemented using Google Maps API.
+Tools used: Android SDK, Java and JSON
